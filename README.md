@@ -8,7 +8,7 @@ I'm Alvin, an aspiring Data Analyst with expertise in data processing, analysis 
 
 ### Projects 📚
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/AlvinOng98/).
+Welcome to my portfolio, where I showcase my [projects](https://github.com/AlvinOng98/portfolio).
 
 ### Tools 🛠️
 
