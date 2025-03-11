@@ -14,7 +14,7 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Alvin
 
   - Language: SQL, Python
   - Database: MySQL
-  - Visualisation: PowerBI, Excel
+  - Visualisation: Tableau, PowerBI, Excel
 
 ### Connect with me 🤝
 
