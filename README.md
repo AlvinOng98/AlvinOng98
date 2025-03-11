@@ -2,9 +2,9 @@
 
 I'm Alvin, an aspiring Data Analyst with expertise in data processing, analysis and visualisation.
 
-  - Querying and updating data using SQL.
-  - Data analysis and visualisation using Excel Pivot Tables and Dashboards.
-  - Developing dashboards on PowerBI.
+  - Building databases, querying and updating data using SQL.
+  - Data analysis and visualisation using Python or Excel Pivot Tables and Dashboards.
+  - Developing dashboards on Tableau, PowerBI.
 
 ### Projects 📚
 
