@@ -12,7 +12,7 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Alvin
 
 ### Tools 🛠️
 
-  - Language: SQL, Python
+  - Language: [SQL](https://github.com/AlvinOng98/SQL), [Python](https://github.com/AlvinOng98/Python)
   - Database: MySQL
   - Visualisation: Tableau, PowerBI, Excel
 
